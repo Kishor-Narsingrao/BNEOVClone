@@ -60,7 +60,7 @@ var Translations = {
             "icon": "email"
         },
         "button4": {
-            "card": "5a78a1b5",
+            "card": "a4ad0f93",
             "label": "Save",
             "icon": "save"
         },
